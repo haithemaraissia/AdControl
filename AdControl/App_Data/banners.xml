@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Banners/banner01.gif</ImageUrl>
+    <NavigateUrl>http://blog.sotirovic.com</NavigateUrl>
+    <AlternateText>Place for your banner</AlternateText>
+    <Impressions>100</Impressions>
+    <Keyword>image</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Banners/blog-misha.swf</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>ASP.NET Blog</AlternateText>
+    <Impressions>100</Impressions>
+    <Keyword>flash</Keyword>
+    <Width>468</Width>
+    <Height>100</Height>
+  </Ad>
+</Advertisements>
